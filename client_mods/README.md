@@ -2,6 +2,13 @@
 
 These are a small collection of PASS Time specific modifications clients can do to their game that they can use in pugs/tournaments.
 
+## Mod Explanation
+
+* "Improved 4v4 PT chat_english.txt" is a improved version of the default chat_english, removing a lot of clutter and not used mechanics. by flaresh
+* "pt_left_hand_remover" - Removes class hands when throwing the ball. Contains separate VPKs for each class. By [Ryder Joestar on GB](https://gamebanana.com/members/2142275), commissioned by gugle
+
+Fixes by blake++ unless otherwise stated.
+
 ## Removing the PASS Time Power Meter from your HUD
 
 ![PASS Time Power Meter Example](https://i.imgur.com/LbQj0Ur.jpeg)
@@ -32,7 +39,7 @@ As long as you're in a server with sv_pure set to 0, you can use these. Otherwis
 
 Simply place one of the folders inside the [passtime-crosshairs](https://github.com/blakeplusplus/p4sstime/raw/main/%5BClient%20Mods%5D/passtime-crosshairs.7z) archive into your `custom` folder.
 
-The crosshairs are originally created by slamborghini and can be found in the Official 4v4 PASS Time Discord. I just wanted to archive them in another place.
+The crosshairs are originally created by slamborghini and exer.
 
 ## Bonus Mods
 
