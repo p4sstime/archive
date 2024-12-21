@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # passtime
 4v4 Competitive Passtime plugins and configs used for the pugs at https://steamcommunity.com/groups/4v4PassTime
 
@@ -39,3 +40,17 @@ Feel free to use anything in this repository for your own pugs
 ## other downloads
 pass_stadium, by Exer
 https://tf2maps.net/downloads/pass_stadium.15102/
+=======
+Archive and external host for files for [passtime.tf](https://passtime.tf).
+
+This archive also contains the commit history of the plugin before it was eventually put into [the current repository](https://github.com/p4sstime/p4sstime-server-resources) under the p4sstime organization. You can view it [here](https://github.com/p4sstime/p4sstime-archive/commits/main/?since=2023-10-13&until=2024-04-30).
+
+### Related Old Repos
+[EaasyE's 4v4 PASS Time Repo](https://github.com/eaasye/passtime)\
+[Laxson's 4v4 PASS Time Repo](https://github.com/Laxson/Passtime)\
+[Panacea's Old 4v4 PASS Time Stats Server](https://github.com/Panacea729/passtimestats-server)
+
+### Other Repos
+[muddy's PASS Tweaks](https://github.com/SirBlockles/pass-tweaks)\
+[twiiku's PASS Time Tweaks](https://github.com/ldesgoui/tf2-passtime-tweaks)
+>>>>>>> p4sstime-archive/main
