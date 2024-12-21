@@ -17,7 +17,7 @@ This hud element is really intrusive, but luckily for us, we can remove it.
 
 If you have a custom HUD, go to your `custom` folder and open the HUD folder. Then go to `resource/ui/` and look for a file named `hudpasstimeballstatus.res`. If the file exists, [click here](#custom-hud--file-exists-removing-power-meter).
 
-If you are using the default HUD or a custom HUD that does not have the file, simply download the [pt-hudmod](https://github.com/blakeplusplus/p4sstime/raw/main/%5BClient%20Mods%5D/pt-hudmod.7z) archive and put the folder inside into `YOUR_STEAM_LIBRARY\steamapps\common\Team Fortress 2\tf\custom\`.
+If you are using the default HUD or a custom HUD that does not have the file, simply download the [pt-hudmod](https://github.com/p4sstime/archive/raw/refs/heads/main/client_mods/pt-hudmod.7z) archive and put the folder inside into `YOUR_STEAM_LIBRARY\steamapps\common\Team Fortress 2\tf\custom\`.
 
 ## Removing or Modifying PASS Time HUD Labels
 
@@ -37,7 +37,7 @@ Not a fan of the default PASS Time JACK reticle?
 ![PASS Time JACK Reticle Example](https://i.imgur.com/sWvgo0R.png)
 As long as you're in a server with sv_pure set to 0, you can use these. Otherwise, it'll just go back to the default crosshair.
 
-Simply place one of the folders inside the [passtime-crosshairs](https://github.com/blakeplusplus/p4sstime/raw/main/%5BClient%20Mods%5D/passtime-crosshairs.7z) archive into your `custom` folder.
+Simply place one of the folders inside the [pt-crosshairs](https://github.com/p4sstime/archive/raw/refs/heads/main/client_mods/pt-crosshairs.7z) archive into your `custom` folder.
 
 The crosshairs are originally created by slamborghini and exer.
 
@@ -53,7 +53,7 @@ Here are some neat JACK & JACK trail replacement mods available on Gamebanana.
 
 Using [this mod preloader](https://gamebanana.com/wips/79779) allows them to work in servers that use `sv_pure 1`, like Valve servers or competitive games.
 
-Mr Boom Snook from the 4v4 PASS Time Discord made a sound mod available [here](https://github.com/blakeplusplus/p4sstime/raw/main/%5BClient%20Mods%5D/pt-sound-mod.7z) that alters the ball_catch, ball_get, and target_lock sounds to be more snappy and noticeable. Give it a shot! If you don't like just one of the sounds, just remove those sounds from the mod.
+Mr Boom Snook from the 4v4 PASS Time Discord made a sound mod available [here](https://github.com/p4sstime/archive/raw/refs/heads/main/client_mods/pt-sound-mod.7z) that alters the ball_catch, ball_get, and target_lock sounds to be more snappy and noticeable. Give it a shot! If you don't like just one of the sounds, just remove those sounds from the mod.
 
 If you want to practice on a local server, you may note loading the map locally results in an annoying "Waiting for Players" message that takes 20 seconds to go away before the actual game can start and the ball can spawn. While you could manually enter `mp_waitingforplayers_cancel 1` every time, you could instead download the [Disable "Waiting For Players" Message](https://gamebanana.com/mods/448996) mod, making the game instantly start!
 
@@ -102,7 +102,7 @@ If you wish to add a totally new font that isn't installed in your HUD, [follow 
 
 ### Custom HUD & File Not Found OR Default HUD (Changing Labels)
 
-Download the [pt-hudmod](https://github.com/blakeplusplus/p4sstime/raw/main/%5BClient%20Mods%5D/pt-hudmod.7z) archive and put the folder inside into `YOUR_STEAM_LIBRARY\steamapps\common\Team Fortress 2\tf\custom\`. Open up the `hudpasstimeballstatus.res` file and CTRL + F for the text you want. As shown in the example before, the +CRIT message is `EventBonusLabel`, the event name (RED SCORE) is `EventTitleLabel`, and the person who caused the event is `EventDetailLabel`.
+Download the [pt-hudmod](https://github.com/p4sstime/archive/raw/refs/heads/main/client_mods/pt-hudmod.7z) archive and put the folder inside into `YOUR_STEAM_LIBRARY\steamapps\common\Team Fortress 2\tf\custom\`. Open up the `hudpasstimeballstatus.res` file and CTRL + F for the text you want. As shown in the example before, the +CRIT message is `EventBonusLabel`, the event name (RED SCORE) is `EventTitleLabel`, and the person who caused the event is `EventDetailLabel`.
 
 To remove, for any `Event____Label`:\
 Change the `tall` value to `0`.
