@@ -43,12 +43,7 @@ The crosshairs are originally created by slamborghini and exer.
 
 ## Bonus Mods
 
-Here are some neat JACK & JACK trail replacement mods available on Gamebanana.
-
-- [Basketball](https://gamebanana.com/mods/205828)
-- [Too Many Balls](https://gamebanana.com/mods/491558) (includes Metroid balls, Mario balls, ANIMATED plasma ball, pool balls, rubber band ball)
-- [PASS Time Ball Pack](https://gamebanana.com/mods/491646) (includes ULTRAKILL skulls, Halo 2 Oddball skull, and a festive jack)
-- [Australium PASS Time JACK](https://gamebanana.com/mods/491682)
+- [PASS Time Jack Skins](https://gamebanana.com/mods/cats/8193)
 - [PASS Time Trail Pack](https://gamebanana.com/mods/11843)
 
 Using [this mod preloader](https://gamebanana.com/wips/79779) allows them to work in servers that use `sv_pure 1`, like Valve servers or competitive games.
