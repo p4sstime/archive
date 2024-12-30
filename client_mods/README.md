@@ -45,6 +45,10 @@ The crosshairs are originally created by slamborghini and exer.
 
 - [PASS Time Jack Skins](https://gamebanana.com/mods/cats/8193)
 - [PASS Time Trail Pack](https://gamebanana.com/mods/11843)
+- [PASS Time Sounds](https://gamebanana.com/sounds/cats/2605)
+
+- [Jack from Lost as Ball Call Icon](https://gamebanana.com/mods/25874)
+- [PASSHud](https://gamebanana.com/mods/26324)
 
 Using [this mod preloader](https://gamebanana.com/wips/79779) allows them to work in servers that use `sv_pure 1`, like Valve servers or competitive games.
 
