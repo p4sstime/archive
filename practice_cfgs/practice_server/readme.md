@@ -13,18 +13,18 @@ Shortcut Target:
 ## Commands (TODO)
 
 Speedo:
-`sm_speedo 0/1           // Turns speedo on/off`
-`sm_speedocustom # # #   // Speedo color RGB value`
+`/speedo                // Turns speedo on/off`
+`/speedocustom          // Speedo color RGB value`
 SSA:
-`sm_ssa 0/1             // Turns speedshot assist on/off`
+`/ssa                   // Turns speedshot assist on/off`
 SyncR:
-`sm_syncr               // Turns SyncR on/off`
+`/syncr                 // Turns SyncR on/off`
 Tempus Spray:
-`sm_spray               // Spray decal on surface; clear with r_cleardecals permanent`
+`/spray                 // Spray decal on surface; clear with r_cleardecals permanent`
 Show Keys:
-`sm_skeys               // Turn showkeys on/off`
-`sm_skeys_coords        // Toggle edit mode of skeys coords`
-`sm_skeys_colors        // Change colors`
+`/skeys               // Turn showkeys on/off`
+`/skeys_coords        // Toggle edit mode of skeys coords`
+`/skeys_colors        // Change colors`
 
 ### Includes
 - [p4sstime plugin](https://github.com/p4sstime/p4sstime-server-resources/) + gamedata (obvi)
