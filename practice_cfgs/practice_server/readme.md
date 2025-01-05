@@ -9,18 +9,18 @@ Shortcut Target:
 ```
 
 ## Commands
-Speedo:
-`/speedo                // Turns speedo on/off`
-`/speedocustom          // Speedo color RGB value`
-SSA:
-`/ssa                   // Turns speedshot assist on/off`
-SyncR:
-`/syncr                 // Turns SyncR on/off`
-Tempus Spray:
-`/spray                 // Spray decal on surface; clear with r_cleardecals permanent`
-Show Keys:
-`/skeys               // Turn showkeys on/off`
-`/skeys_coords        // Toggle edit mode of skeys coords`
+Speedo:\
+`/speedo                // Turns speedo on/off`\
+`/speedocustom          // Speedo color RGB value`\
+SSA:\
+`/ssa                   // Turns speedshot assist on/off`\
+SyncR:\
+`/syncr                 // Turns SyncR on/off`\
+Tempus Spray:\
+`/spray                 // Spray decal on surface; clear with r_cleardecals permanent`\
+Show Keys:\
+`/skeys               // Turn showkeys on/off`\
+`/skeys_coords        // Toggle edit mode of skeys coords`\
 `/skeys_colors        // Change colors`
 
 ### Includes
