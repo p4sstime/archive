@@ -34,3 +34,4 @@ Show Keys:\
 
 ### Notes
 - JumpQOL is not included since it doesn't work (at least on Windows) and we don't use it for 4v4 PASS Time anyway. Similar thing for groundfix.
+- `sm_remove_pipe_spin` (part of tf2 comp fixes) is not set to 1 because it crashes the server if you try to spawn as demoman. [Issue here](https://github.com/ldesgoui/tf2-comp-fixes/issues/114)
