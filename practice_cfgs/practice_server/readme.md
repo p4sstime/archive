@@ -1,6 +1,8 @@
 # blake++'s 4v4 PASS Time Practice Server Package
 For quickly creating an easy 4v4 PASS Time practice server. Drag-n-drop in /tf/ in your server files.
 
+After the game starts, run `ent_remove team_round_timer`.
+
 Shortcut Target:
 ```
 ...\srcds.exe -console -game tf +map pass_arena2_b14b +maxplayers 6
