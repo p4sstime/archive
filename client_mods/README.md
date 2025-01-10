@@ -56,6 +56,15 @@ Replace the `crosshair` section within that file with the following.
 ```
 It should look relatively natural within the file. Replace `vgui/replay/thumbnails/lapiSeeker` with the path to your desired crosshair.
 
+## Custom PASS Time Icons
+
+![PASS Time JACK Icon Example](https://i.imgur.com/7fy6I6F.png)
+sv_pure 0 required.
+
+Place one of the VPKs inside [pt-icons](https://github.com/p4sstime/archive/raw/refs/heads/main/client_mods/pt-icons.7z) into your `custom` folder.
+
+All icons currently made by kin.
+
 ## Bonus Mods
 
 > [!CAUTION]
