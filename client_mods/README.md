@@ -39,7 +39,7 @@ As long as you're in a server with sv_pure set to 0, you can use these. Otherwis
 
 Simply place one of the folders inside the [pt-crosshairs](https://github.com/p4sstime/archive/raw/refs/heads/main/client_mods/pt-crosshairs.7z) archive into your `custom` folder.
 
-The crosshairs are originally created by slamborghini and exer.
+Crosshairs by various authors, including slamborghini, exer, and kin.
 
 ## Bonus Mods
 
