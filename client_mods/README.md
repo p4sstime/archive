@@ -41,7 +41,25 @@ Simply place one of the folders inside the [pt-crosshairs](https://github.com/p4
 
 Crosshairs by various authors, including slamborghini, exer, and kin.
 
+If you aren't happy with one of those crosshairs and have a custom one in mind, you can utilize [mastercomfig's web app](https://comfig.app/app/) to select a PASS Time JACK crosshair. Select any but the default and then click on the button under `Download your files`. Locate the `comfig-custom` folder within `tf/custom` and copy it over to your `custom` folder. Go in `custom/comfig-custom/scripts` and click on the txt file. 
+
+Replace the `crosshair` section within that file with the following.
+```
+        "crosshair"
+		{
+				"file"		"vgui/replay/thumbnails/lapiSeeker"
+				"x"		"0"
+				"y"		"0"
+				"width"		"64"
+				"height"	"64"
+		}
+```
+It should look relatively natural within the file. Replace `vgui/replay/thumbnails/lapiSeeker` with the path to your desired crosshair.
+
 ## Bonus Mods
+
+> [!CAUTION]
+> Using PASS Time Jack Skins on a local server will slightly alter the JACK physics!!! It does not matter which JACK mod you use (even copying over the stock files will cause this issue)!!!
 
 - [PASS Time Jack Skins](https://gamebanana.com/mods/cats/8193)
 - [PASS Time Trail Pack](https://gamebanana.com/mods/11843)
@@ -57,6 +75,8 @@ Mr Boom Snook from the 4v4 PASS Time Discord made a sound mod available [here](h
 If you want to practice on a local server, you may note loading the map locally results in an annoying "Waiting for Players" message that takes 20 seconds to go away before the actual game can start and the ball can spawn. While you could manually enter `mp_waitingforplayers_cancel 1` every time, you could instead download the [Disable "Waiting For Players" Message](https://gamebanana.com/mods/448996) mod, making the game instantly start!
 
 And an [Invisible Hands](https://gamebanana.com/mods/467431) mod which quite a few PASS Time players enjoy, since the JACK uses an All Class animation resulting in clipping issues with viewmodels.
+
+[Horsie's Viewmodel Editor](https://github.com/a-horsey/horsies-viewmodel-editor) is a fantastic tool to edit viewmodels, especially for the JACK!
 
 # END OF FILE
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
